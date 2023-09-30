@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1LAdtJ8C5oeSUdQQZjUwnS7E+iWyAYDpTXiTijgIa8tsH88yUPOKYMSnv7ZAK9SeVuXujeUMKAj67ZUQmCleg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ganes\\Desktop\\TTS\\TestTTS\\TestTTS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganes\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

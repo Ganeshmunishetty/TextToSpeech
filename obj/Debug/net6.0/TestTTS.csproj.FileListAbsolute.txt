@@ -1,0 +1,36 @@
+C:\Users\NF User 2\source\repos\TestTTS\bin\Debug\net6.0\TestTTS.exe
+C:\Users\NF User 2\source\repos\TestTTS\bin\Debug\net6.0\TestTTS.deps.json
+C:\Users\NF User 2\source\repos\TestTTS\bin\Debug\net6.0\TestTTS.runtimeconfig.json
+C:\Users\NF User 2\source\repos\TestTTS\bin\Debug\net6.0\TestTTS.dll
+C:\Users\NF User 2\source\repos\TestTTS\bin\Debug\net6.0\TestTTS.pdb
+C:\Users\NF User 2\source\repos\TestTTS\bin\Debug\net6.0\System.Speech.dll
+C:\Users\NF User 2\source\repos\TestTTS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\TestTTS.csproj.AssemblyReference.cache
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\TestTTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\TestTTS.AssemblyInfoInputs.cache
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\TestTTS.AssemblyInfo.cs
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\TestTTS.csproj.CoreCompileInputs.cache
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\TestTTS.csproj.CopyComplete
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\TestTTS.dll
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\refint\TestTTS.dll
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\TestTTS.pdb
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\TestTTS.genruntimeconfig.cache
+C:\Users\NF User 2\source\repos\TestTTS\obj\Debug\net6.0\ref\TestTTS.dll
+C:\Users\ganes\Desktop\TTS\TestTTS\bin\Debug\net6.0\TestTTS.exe
+C:\Users\ganes\Desktop\TTS\TestTTS\bin\Debug\net6.0\TestTTS.deps.json
+C:\Users\ganes\Desktop\TTS\TestTTS\bin\Debug\net6.0\TestTTS.runtimeconfig.json
+C:\Users\ganes\Desktop\TTS\TestTTS\bin\Debug\net6.0\TestTTS.dll
+C:\Users\ganes\Desktop\TTS\TestTTS\bin\Debug\net6.0\TestTTS.pdb
+C:\Users\ganes\Desktop\TTS\TestTTS\bin\Debug\net6.0\System.Speech.dll
+C:\Users\ganes\Desktop\TTS\TestTTS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\TestTTS.csproj.AssemblyReference.cache
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\TestTTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\TestTTS.AssemblyInfoInputs.cache
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\TestTTS.AssemblyInfo.cs
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\TestTTS.csproj.CoreCompileInputs.cache
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\TestTTS.csproj.CopyComplete
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\TestTTS.dll
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\refint\TestTTS.dll
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\TestTTS.pdb
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\TestTTS.genruntimeconfig.cache
+C:\Users\ganes\Desktop\TTS\TestTTS\obj\Debug\net6.0\ref\TestTTS.dll

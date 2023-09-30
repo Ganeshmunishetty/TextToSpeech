@@ -1,0 +1,7 @@
+C:\Users\NF User 2\source\repos\TestTTS\bin\Release\net6.0\publish\TestTTS.exe
+C:\Users\NF User 2\source\repos\TestTTS\bin\Release\net6.0\publish\TestTTS.dll
+C:\Users\NF User 2\source\repos\TestTTS\bin\Release\net6.0\publish\TestTTS.deps.json
+C:\Users\NF User 2\source\repos\TestTTS\bin\Release\net6.0\publish\TestTTS.runtimeconfig.json
+C:\Users\NF User 2\source\repos\TestTTS\bin\Release\net6.0\publish\TestTTS.pdb
+C:\Users\NF User 2\source\repos\TestTTS\bin\Release\net6.0\publish\System.Speech.dll
+C:\Users\NF User 2\source\repos\TestTTS\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\System.Speech.dll
